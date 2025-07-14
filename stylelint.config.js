@@ -8,6 +8,8 @@ module.exports = {
     }],
     "value-keyword-case": "lower",
     "selector-type-case": "lower",
-    "block-no-empty": true
+    "block-no-empty": true,
+    "color-no-invalid-hex": true,
+    "unit-allowed-list": ["em", "rem", "px", "%", "s", "deg"]
   }
 };
