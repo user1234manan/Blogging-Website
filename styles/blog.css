@@ -1,14 +1,15 @@
 body {
+  background-color: #f9f9f9;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   line-height: 1.8;
-  color: #444;
+  color: #333;
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
 
 article {
-  background: #f9f9f9;
+  background: #fff;
   padding: 20px;
   margin-bottom: 20px;
   border-radius: 5px;
